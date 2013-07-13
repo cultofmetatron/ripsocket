@@ -1,5 +1,9 @@
 {
-  "name":"ripSocket"
-  "description":"a websocket router"
+  "name":"ripSocket",
+  "description":"a websocket router",
+  "dependencies":{
+    "engine.io":"*"
+  
+  }
 
 }
