@@ -2,8 +2,10 @@
   "name":"ripSocket",
   "description":"a websocket router",
   "dependencies":{
-    "engine.io":"*"
-  
+    "engine.io":"*",
+    "express": "*",
+    "q":"*",
+    "async":"*"
   }
 
 }
